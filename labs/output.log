@@ -1,0 +1,7 @@
+Insert the following screenshots below the respective labels:
+- ✅ Successful `mvn clean install` output (`BUILD SUCCESS`)
+- ❌ GroovyShell stack trace (Memory/syntax issues)
+- 🔁 Swap space setup terminal (before & after)
+- 🔐 GitHub permission/403 failure
+- 🧱 Jenkinsfile in `cat -A` view showing encoding characters
+- 📉 Build executor dashboard showing offline node
